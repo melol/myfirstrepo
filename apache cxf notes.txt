@@ -1,0 +1,7 @@
+LEARNED 2 brand new things about Apache CXF.
+1) download Apache CXF, navigate to lib and read file WHICH_JARS
+2) There is one big cxf jar, that contains file META-INF/services/javax.xml.ws.spi.Provider
+3) if you find the aforementionted class in javadoc, then you will find an algorithm whose purpose is to choose jax-ws implementation
+
+@See
+@Url http://stackoverflow.com/questions/6364333/jax-ws-when-apache-cxf-is-installed-it-steals-default-jdk-jax-ws-implementat
